@@ -1,1 +1,3 @@
-Uma plataforma onde o usuário pode fazer registro para logar-se e encontrar pessoas no Brasil para marcar corridas ou encontros pelo estado brasileiro.
+- Uma plataforma onde o usuário pode fazer registro para logar-se e encontrar pessoas no Brasil para marcar corridas ou encontros pelo estado brasileiro;
+- MVC Asp.Net;
+- Está em inglês porque o projeto foi criado por um professor americano e hoje existem ferramentas de tradução nos navegadores, então fica acessível;
